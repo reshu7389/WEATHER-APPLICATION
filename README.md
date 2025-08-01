@@ -75,5 +75,5 @@ Security measures include data encryption, secure API key management, and protec
 This weather application demonstrates proficiency in full-stack development, API integration, database management, and modern web development best practices using the MERN stack.
 
 #OUTPUT
-
+<img width="1916" height="948" alt="Image" src="https://github.com/user-attachments/assets/1141bd84-eabd-4230-aa72-1de853cb5145" />
 
